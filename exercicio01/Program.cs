@@ -3,8 +3,7 @@
 namespace exercicio01
 {
     class Program
-    {
-        static void Main(string[] args)
+    {         static void Main(string[] args)
         {
             Console.WriteLine("Digite a primeira nota: ");
             decimal nota01 = Convert.ToDecimal(Console.ReadLine());

@@ -1,0 +1,16 @@
+C:\Users\aline\Desktop\Treinamento C#\Ex04\obj\Debug\net5.0\Ex04.csproj.AssemblyReference.cache
+C:\Users\aline\Desktop\Treinamento C#\Ex04\obj\Debug\net5.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aline\Desktop\Treinamento C#\Ex04\obj\Debug\net5.0\Ex04.AssemblyInfoInputs.cache
+C:\Users\aline\Desktop\Treinamento C#\Ex04\obj\Debug\net5.0\Ex04.AssemblyInfo.cs
+C:\Users\aline\Desktop\Treinamento C#\Ex04\obj\Debug\net5.0\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\aline\Desktop\Treinamento C#\Ex04\bin\Debug\net5.0\Ex04.exe
+C:\Users\aline\Desktop\Treinamento C#\Ex04\bin\Debug\net5.0\Ex04.deps.json
+C:\Users\aline\Desktop\Treinamento C#\Ex04\bin\Debug\net5.0\Ex04.runtimeconfig.json
+C:\Users\aline\Desktop\Treinamento C#\Ex04\bin\Debug\net5.0\Ex04.runtimeconfig.dev.json
+C:\Users\aline\Desktop\Treinamento C#\Ex04\bin\Debug\net5.0\Ex04.dll
+C:\Users\aline\Desktop\Treinamento C#\Ex04\bin\Debug\net5.0\ref\Ex04.dll
+C:\Users\aline\Desktop\Treinamento C#\Ex04\bin\Debug\net5.0\Ex04.pdb
+C:\Users\aline\Desktop\Treinamento C#\Ex04\obj\Debug\net5.0\Ex04.dll
+C:\Users\aline\Desktop\Treinamento C#\Ex04\obj\Debug\net5.0\ref\Ex04.dll
+C:\Users\aline\Desktop\Treinamento C#\Ex04\obj\Debug\net5.0\Ex04.pdb
+C:\Users\aline\Desktop\Treinamento C#\Ex04\obj\Debug\net5.0\Ex04.genruntimeconfig.cache
